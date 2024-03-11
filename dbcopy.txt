@@ -3,102 +3,102 @@
     {
     "id": 0,
     "name": "Acme Fresh Start Housing",
-    "city": "Воронеж",
-    "state": "Россия",
+    "city": "Chicago",
+    "state": "IL",
     "photo": "https://angular.io/assets/images/tutorials/faa/bernard-hermant-CLKGGwIBTaY-unsplash.jpg",
     "availableUnits": 4,
-    "wifi": "да",
-    "laundry": "да"
+    "wifi": true,
+    "laundry": true
     },
     {
     "id": 1,
     "name": "A113 Transitional Housing",
-    "city": "Москва",
-    "state": "Россия",
+    "city": "Santa Monica",
+    "state": "CA",
     "photo": "https://angular.io/assets/images/tutorials/faa/brandon-griggs-wR11KBaB86U-unsplash.jpg",
     "availableUnits": 0,
-    "wifi": "нет",
-    "laundry": "да"
+    "wifi": false,
+    "laundry": true
     },
     {
     "id": 2,
     "name": "Warm Beds Housing Support",
-    "city": "Воронеж",
-    "state": "Россия",
+    "city": "Juneau",
+    "state": "AK",
     "photo": "https://angular.io/assets/images/tutorials/faa/i-do-nothing-but-love-lAyXdl1-Wmc-unsplash.jpg",
     "availableUnits": 1,
-    "wifi": "нет",
-    "laundry": "нет"
+    "wifi": false,
+    "laundry": false
     },
     {
     "id": 3,
     "name": "Homesteady Housing",
-    "city": "Калининград",
-    "state": "Россия",
+    "city": "Chicago",
+    "state": "IL",
     "photo": "https://angular.io/assets/images/tutorials/faa/ian-macdonald-W8z6aiwfi1E-unsplash.jpg",
     "availableUnits": 1,
-    "wifi": "да",
-    "laundry": "нет"
+    "wifi": true,
+    "laundry": false
     },
     {
     "id": 4,
     "name": "Happy Homes Group",
-    "city": "Воронеж",
-    "state": "Россия",
+    "city": "Gary",
+    "state": "IN",
     "photo": "https://angular.io/assets/images/tutorials/faa/krzysztof-hepner-978RAXoXnH4-unsplash.jpg",
     "availableUnits": 1,
-    "wifi": "да",
-    "laundry": "нет"
+    "wifi": true,
+    "laundry": false
     },
     {
     "id": 5,
     "name": "Hopeful Apartment Group",
-    "city": "Москва",
-    "state": "Россия",
+    "city": "Oakland",
+    "state": "CA",
     "photo": "https://angular.io/assets/images/tutorials/faa/r-architecture-JvQ0Q5IkeMM-unsplash.jpg",
     "availableUnits": 2,
-    "wifi": "да",
-    "laundry": "да"
+    "wifi": true,
+    "laundry": true
     },
     {
     "id": 6,
     "name": "Seriously Safe Towns",
-    "city": "Калининград",
-    "state": "Россия",
+    "city": "Oakland",
+    "state": "CA",
     "photo": "https://angular.io/assets/images/tutorials/faa/phil-hearing-IYfp2Ixe9nM-unsplash.jpg",
     "availableUnits": 5,
-    "wifi": "да",
-    "laundry": "да"
+    "wifi": true,
+    "laundry": true
     },
     {
     "id": 7,
     "name": "Hopeful Housing Solutions",
-    "city": "Астана",
-    "state": "Казахстан",
+    "city": "Oakland",
+    "state": "CA",
     "photo": "https://angular.io/assets/images/tutorials/faa/r-architecture-GGupkreKwxA-unsplash.jpg",
     "availableUnits": 2,
-    "wifi": "да",
-    "laundry": "да"
+    "wifi": true,
+    "laundry": true
     },
     {
     "id": 8,
     "name": "Seriously Safe Towns",
-    "city": "Минск",
-    "state": "Беларусь",
+    "city": "Oakland",
+    "state": "CA",
     "photo": "https://angular.io/assets/images/tutorials/faa/saru-robert-9rP3mxf8qWI-unsplash.jpg",
     "availableUnits": 10,
-    "wifi": "нет",
-    "laundry": "нет"
+    "wifi": false,
+    "laundry": false
     },
     {
     "id": 9,
     "name": "Capital Safe Towns",
-    "city": "Ялта",
-    "state": "Россия",
+    "city": "Portland",
+    "state": "OR",
     "photo": "https://angular.io/assets/images/tutorials/faa/webaliser-_TPTXZd9mOo-unsplash.jpg",
     "availableUnits": 6,
-    "wifi": "да",
-    "laundry": "да"
+    "wifi": true,
+    "laundry": true
     }
     ]
     }
